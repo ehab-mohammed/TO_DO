@@ -16,14 +16,23 @@ Selenium	Web UI Automation
 ChromeDriver	To control the Chrome browser
 Git	Version control system
 
-project structure
+-project structure
 TO_DO/
-├── features/
-│   ├── steps/
-│   │   └── todo_steps.py
-│   └── todo.feature
-├── requirements.txt
-└── README.md
+├── features/              
+│   ├── todo.feature
+│   ├── ...
+│   └── steps/
+│       └── step_definitions.py
+├── manualtesting/         
+│   ├── D01-Test_Strategy.pdf
+│   ├── D02-SIGN IN.pdf
+│   ├── D02-SIGN UP.pdf
+│   ├── D04-TO DO.pdf
+│   └── D05-BUG REPORTS.pdf
+├── README.md              
+├── requirements.txt      
+└── .gitignore            
+
 
  Assumptions Made
 A valid test account is already created:
