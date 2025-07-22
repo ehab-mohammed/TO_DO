@@ -24,3 +24,14 @@ TO_DO/
 │   └── todo.feature
 ├── requirements.txt
 └── README.md
+
+ Assumptions Made
+A valid test account is already created:
+Email: starlink@example.com
+Password: ana01220@STAR
+internet connection is stable to run test
+
+-steps to run in the terminal
+1-pip install -r requirements.txt
+2-venv\Scripts\activate  # Windows
+3-type behave
