@@ -1,4 +1,4 @@
-his project automates the process of testing a To-Do web application using Selenium and Behave (BDD) in Python.
+this project automates the process of testing a To-Do web application using Selenium and Behave (BDD) in Python.
 
 It covers the following scenarios:
 
