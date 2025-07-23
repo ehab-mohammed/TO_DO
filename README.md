@@ -25,8 +25,8 @@ TO_DO/
 │       └── step_definitions.py
 ├── manualtesting/         
 │   ├── D01-Test_Strategy.pdf
-│   ├── D02-SIGN IN.pdf
 │   ├── D02-SIGN UP.pdf
+│   ├── D03-SIGN IN.pdf
 │   ├── D04-TO DO.pdf
 │   └── D05-BUG REPORTS.pdf
 ├── README.md              
